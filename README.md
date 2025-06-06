@@ -28,7 +28,10 @@ This Excel file is a comprehensive tool designed to track daily health and fitne
 - merged all pivot tables into one dashboard for data visualization
 
 ## Dashboard
-<a href = "https://github.com/Kofi-B-Nimo/HEALTH-excel/blob/main/Health%20Tracker%20Dashboard.png"> Dashboard </a>
+![Health Tracker Dashboard](https://github.com/user-attachments/assets/ec5f87c2-77fa-4d29-b1d0-d4535eb5e781)
+
+
+
 ## Project Insights
 
 ## Final Conclusion

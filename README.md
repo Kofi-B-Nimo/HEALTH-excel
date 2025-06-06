@@ -33,7 +33,17 @@ This Excel file is a comprehensive tool designed to track daily health and fitne
 
 
 ## Project Insights
+- From the start of January to the end of April, 73% of days were active and 27% were rest days, indicating a strong level of consistency in physical activity.
+- Overall, the number of active days remained relatively consistent from January through April, with no clear upward trend month to month. However, there was a noticeable spike in activity during April.
+- While there’s no definitive conclusion, the data suggests that active days tend to be associated with a slightly higher average mood compared to rest days.
+- The data indicates a direct correlation between weight and physical activity levels—months with higher average step counts generally align with lower average weight, suggesting a potential relationship between increased activity and weight management.
+- The data shows no clear correlation between hours of sleep and recorded mood, suggesting that sleep duration alone may not be a strong predictor of daily mood in this case.
+- Among recorded activities, long-distance runs consistently burned the most calories on average, with basketball following closely behind as another high-calorie-burning exercise.
+  
 
 ## Final Conclusion
+Overall, the data shows that I stayed pretty consistent with my activity levels from January to April, with a big spike in April. Active days tended to line up with better moods, and there seems to be a clear link between staying active and keeping my weight down. On the other hand, sleep didn’t seem to have much impact on mood based on this data.
+
+In the future, tracking things like heart rate, stress levels, or even meal quality could help paint a clearer picture. It might also help to look at sleep quality, not just hours slept.
 
 

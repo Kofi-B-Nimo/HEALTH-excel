@@ -29,7 +29,7 @@ This Excel file is a comprehensive tool designed to track daily health and fitne
 
 ## Dashboard
 
-## Project Insight
+## Project Insights
 
 ## Final Conclusion
 

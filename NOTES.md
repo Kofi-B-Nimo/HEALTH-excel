@@ -15,6 +15,13 @@ I realized I have a smart watch at my disposal and could utilize it to aid my ca
 
 - I also had difficulty deciding what was enough data, I thought a month was far too small and a year was too much. I settled on having around 150 instances of data would be acceptable and just the right amount to analize potential trends/patterns. After 5 months I decided to embark on the next stage of the project.
 
+## Taking a Look
+The data was organized by each month having its own sheet, which is preferable when looking at it but not ideal for analysis. My first job was to consolidate the data into one sheet, so i created a new sheet with data from January to May in order to then be able to create pivot tables from the consolidated chart.
+
+one problem I did encounter while creating the pivot tables, to answer the various questions was; not being able to group the pieces of data into months, because i lacked a column that clearly stated what month each piece of data fell under, I had to incorporate that column into the consolidated sheet, and loe and behold, my pivot tables started working!
+
+
+
 
 
 

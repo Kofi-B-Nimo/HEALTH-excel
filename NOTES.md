@@ -8,5 +8,6 @@ So I settled upon this idea at the start of this year to embark on a fitness jou
 
 ## First Hurdle
 What in the world can I track thats capable of being analyzed and how in the world  will i go about doing this?
+I realized I have a smart watch at my disposal and could utilize it to aid my cause
 
 

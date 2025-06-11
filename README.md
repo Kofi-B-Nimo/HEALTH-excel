@@ -1,9 +1,12 @@
 # Project Overview
 This Excel file is a comprehensive tool designed to track daily health and fitness metrics for personal growth and goal setting. This process involved data collection, data analysis, and data visualization
 
+---
+
 ## Dataset used
 <a href = "https://github.com/Kofi-B-Nimo/HEALTH-excel/blob/main/HEALTH%20TRACKER.xlsx"> Health Progress Tracker</a>
 
+---
 
 ## Key Analytical Questions Explored
 - What is the ratio of active days to rest days?
@@ -18,6 +21,8 @@ This Excel file is a comprehensive tool designed to track daily health and fitne
   
 - Which mode of exercise burns the most calories on average?
 
+---
+
 ## Process
 - 5 months of daily data collection
   
@@ -27,10 +32,12 @@ This Excel file is a comprehensive tool designed to track daily health and fitne
   
 - merged all pivot tables into one dashboard for data visualization
 
+---
+
 ## Dashboard
 ![Health Tracker Dashboard](https://github.com/user-attachments/assets/ec5f87c2-77fa-4d29-b1d0-d4535eb5e781)
 
-
+---
 
 ## Project Insights
 - From the start of January to the end of April, 73% of days were active and 27% were rest days, indicating a strong level of consistency in physical activity.
@@ -39,7 +46,8 @@ This Excel file is a comprehensive tool designed to track daily health and fitne
 - The data indicates a direct correlation between weight and physical activity levels—months with higher average step counts generally align with lower average weight, suggesting a potential relationship between increased activity and weight management.
 - The data shows no clear correlation between hours of sleep and recorded mood, suggesting that sleep duration alone may not be a strong predictor of daily mood in this case.
 - Among recorded activities, long-distance runs consistently burned the most calories on average, with basketball following closely behind as another high-calorie-burning exercise.
-  
+
+---
 
 ## Final Conclusion
 Overall, the data shows that I stayed pretty consistent with my activity levels from January to April, with a big spike in April. Active days tended to line up with better moods, and there seems to be a clear link between staying active and keeping my weight down. On the other hand, sleep didn’t seem to have much impact on mood based on this data.

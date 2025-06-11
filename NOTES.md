@@ -20,6 +20,11 @@ The data was organized by each month having its own sheet, which is preferable w
 
 one problem I did encounter while creating the pivot tables, to answer the various questions was; not being able to group the pieces of data into months, because i lacked a column that clearly stated what month each piece of data fell under, I had to incorporate that column into the consolidated sheet, and loe and behold, my pivot tables started working!
 
+## Thoughts (more thoughts)
+- Though the data previded insights on certain health trends and was  definitely insightful, ideally more insight would've been better. Data such as; resting heart rate, stress levels, calorie intake, body fat percentage ( taken on a monthly basis)
+- Something that also really bothered me was the fact that there wasnt a distinct active calorie column that would be able to specifically tell me how many calories weere burned doing a particular exercise. I realized this while creating the " AVG. CALORIES BURNED " chart, so that information isn't as accurate as i would like it to be.
+- overall, the process over the past 5 months was fruitful and rewarding, it was a bit challenging organizing myself during the process but as it went on it got clearer and clearer. definitely grew technically and I'm very excited to keep the train going and journey onto to the next project, see you there!
+
 
 
 
